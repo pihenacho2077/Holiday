@@ -1,1 +1,3 @@
-# Holiday
+# maven-project
+
+Simple Maven Project
